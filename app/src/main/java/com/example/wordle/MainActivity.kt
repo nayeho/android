@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         val rvGame = findViewById<RecyclerView>(R.id.rvGame)
         val btnRetry = findViewById<Button>(R.id.btnRetry)
         val answer = "apple"
+        val answer2 = "album"
 
 
         // 2. Template 결정
